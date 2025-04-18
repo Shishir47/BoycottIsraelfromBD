@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298660678663",
+    "project_id": "boycottisrealifrombd",
+    "storage_bucket": "boycottisrealifrombd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298660678663:android:a1e75596f7009fd277eea2",
+        "android_client_info": {
+          "package_name": "com.shishir.boycottbd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPgp3mzp7vrJuTiTq8BNw3LoIYzGdqJKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
